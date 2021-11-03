@@ -1,0 +1,8 @@
+#!/bin/bash
+cd help
+mkdir help me please
+cd please
+touch it.txt is.txt very.txt difficult.json kek.json
+mkdir 1 2 3
+ls
+mv very.txt kek.json 1/
